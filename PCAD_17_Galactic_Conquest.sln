@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCAD_17_Galactic_Conquest", "PCAD_17_Galactic_Conquest.csproj", "{91EDCF27-E3F3-4F6D-9408-D8A9D1CFCDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91EDCF27-E3F3-4F6D-9408-D8A9D1CFCDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EDCF27-E3F3-4F6D-9408-D8A9D1CFCDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EDCF27-E3F3-4F6D-9408-D8A9D1CFCDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EDCF27-E3F3-4F6D-9408-D8A9D1CFCDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48ED699E-4B0F-48A6-9198-6723886F3785}
+	EndGlobalSection
+EndGlobal
